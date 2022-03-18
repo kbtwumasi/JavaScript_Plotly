@@ -1,0 +1,6 @@
+
+.jumbotron {
+    background-image: url("https://raw.githubusercontent.com/kbtwumasi/JavaScript_Plotly/master/static/images/background.jpeg");
+    background-size: contain;
+    text-align: center;
+}
